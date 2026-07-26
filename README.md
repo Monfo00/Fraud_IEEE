@@ -1,4 +1,4 @@
-# Repository Contents
+# Contents
 
 ## Fraud_Data_Preparation
 Data import, preprocessing, and feature engineering pipeline for the IEEE-CIS Fraud Detection dataset. This notebook covers data cleaning, missing value handling, feature transformation, feature engineering (with explanations and examples), and preparation of the final dataset for machine learning models.
